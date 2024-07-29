@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "errors": [],
+  "scryptfile": "src/lib/contracts/root.scrypt",
+  "sourceMapFile": "src/lib/contracts/root.scrypt.map",
+  "ctxMethods": []
+}
