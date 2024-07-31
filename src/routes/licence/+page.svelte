@@ -3,7 +3,7 @@
   
     function handleAgree() {
       agreed = true;
-      // Add any additional logic for when the user agrees to the licensing terms
+     
     }
   </script>
   
@@ -13,7 +13,7 @@
       <p class="text-gray-700 mb-4">
         Welcome to our property mortgage management system. This page outlines the licensing terms and conditions under which you may use our services.
       </p>
-      <!-- Add more detailed licensing content here -->
+    
       <p class="text-gray-700 mb-4">
         [Insert detailed licensing content here...]
       </p>

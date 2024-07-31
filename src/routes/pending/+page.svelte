@@ -1,6 +1,6 @@
-<!-- src/routes/+page.svelte -->
+
 <script>
-    // Sample data for pending requests
+
     let pendingRequests = [
       { propertyId: '12345', loanAmount: '$250,000', repaymentPeriod: '30 years' },
       { propertyId: '67890', loanAmount: '$150,000', repaymentPeriod: '15 years' },
@@ -19,7 +19,7 @@
   </script>
   
   <style>
-    /* You can add custom styles here if needed */
+    
   </style>
   
   <div class="container mx-auto p-6 bg-gray-50 mt-10 dark:bg-gray-900 rounded-xl">

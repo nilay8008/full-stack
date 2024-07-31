@@ -9,12 +9,12 @@
   
     const handleMakePayment = (payment) => {
       console.log(`Payment made for: ${payment.dueDate}`);
-      // Add your payment logic here
+      
     };
   </script>
   
   <style>
-    /* You can add custom styles here if needed */
+    
   </style>
   
   <div class="container mx-auto p-6">

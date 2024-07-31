@@ -1,15 +1,15 @@
-<!-- src/routes/+page.svelte -->
+
 <script>
-    let paymentReceived = true; // This can be dynamically set based on payment logic
+    let paymentReceived = true;
   
     const handleViewDetails = () => {
       console.log("Viewing payment details");
-      // Add your logic to view payment details here
+    
     };
   </script>
   
   <style>
-    /* You can add custom styles here if needed */
+   
   </style>
   
   <div class="container mx-auto p-6">

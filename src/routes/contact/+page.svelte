@@ -4,9 +4,9 @@
   let message = '';
 
   function handleSubmit() {
-    // Handle form submission logic here
+    
     alert(`Message sent by ${name} (${email}): ${message}`);
-    // Reset the form
+   
     name = '';
     email = '';
     message = '';

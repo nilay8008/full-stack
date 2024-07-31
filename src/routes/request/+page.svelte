@@ -1,4 +1,4 @@
-<!-- src/routes/+page.svelte -->
+
 <script>
   let propertyId = '';
   let loanAmount = '';
@@ -6,13 +6,13 @@
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    // Handle form submission logic here
+    
     console.log({ propertyId, loanAmount, repaymentPeriod });
   };
 </script>
 
 <style>
-  /* You can add custom styles here if needed */
+  
 </style>
 
 <div class="container mx-auto p-6">

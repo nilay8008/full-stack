@@ -1,5 +1,5 @@
 <script>
-  // You can add any additional logic or data fetching here if needed
+  
 </script>
 
 <div class="min-h-screen bg-gradient-to-r from-blue-200 to-blue-500 flex flex-col items-center justify-center py-12">

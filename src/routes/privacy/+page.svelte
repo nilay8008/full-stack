@@ -3,7 +3,7 @@
   
     function handleAgree() {
       agreed = true;
-      // Add any additional logic for when the user agrees to the privacy policy
+  
     }
   </script>
   
@@ -16,7 +16,7 @@
       <p class="text-gray-700 mb-4">
         Please read this privacy policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using our services, you agree to this privacy policy.
       </p>
-      <!-- Add more detailed privacy policies content here -->
+      
       <p class="text-gray-700 mb-4">
         [Insert detailed privacy policies content here...]
       </p>

@@ -3,7 +3,7 @@
 
   function handleAgree() {
     agreed = true;
-    // Add any additional logic for when the user agrees to the cookie policy
+   
   }
 </script>
 
